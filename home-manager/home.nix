@@ -109,9 +109,9 @@
     enable = true;
     lfs.enable = true;
     settings = {
-      user.name = "Hao Lin";
-      user.email = "linhaomails@gmail.com";
-      user.signingkey = "${homeDirectory}/.ssh/id_ed25519.pub";
+      user.name = "Lin-xs";
+      user.email = "1833080950@qq.com";
+      user.signingkey = "${homeDirectory}/.ssh/id_rsa.pub";
       
       gpg.format = "ssh";
       commit.gpgsign = true;
